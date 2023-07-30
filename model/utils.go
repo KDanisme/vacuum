@@ -8,6 +8,9 @@ import (
 	"strings"
 )
 
+const WebsiteUrl = "https://quobix.com/vacuum"
+const GithubUrl = "https://github.com/daveshanley/vacuum"
+
 const (
 	OAS2  = "oas2"
 	OAS3  = "oas3"
